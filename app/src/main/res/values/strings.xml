@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdvanceNotification</string>
+    <string name="msg_call">Clicked notification cancel action button</string>
+    <string name="msg_video">Clicked notificatin call action button</string>
+</resources>
